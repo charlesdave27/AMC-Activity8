@@ -36,7 +36,7 @@ export default function App() {
       {page === 2 && (
         <View style={styles.page}>
           <Text style={styles.sectionTitle}>About me</Text>
-          <Text style={styles.text}> asda</Text>
+          <Text style={styles.text}> Hello I'm Charles Dave Dela Cruz, an aspiring IT professional passionate about technology, software development, and problem-solving. Currently pursuing my studies in Information Technology, I want to specialize in web development. I am always eager to learn new technologies,  and enhance my skills in full stack web development I'm interest in how computers work and believe technology is the way to the advancement of society in the future</Text>
 
           <TouchableOpacity style={styles.button} onPress={handlePrevPage}>
             <Text style={styles.buttonText}>Previous Page</Text>
